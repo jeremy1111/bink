@@ -3,7 +3,7 @@
 
 >Clone this repository to your local machine
 
->Use an IDE (eg. PyCharm) and open the project
+>Use an IDE (eg. PyCharm) to open the project
 
 >Run the run.py script
 
